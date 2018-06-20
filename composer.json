@@ -1,0 +1,21 @@
+{
+    "name": "yii2-cms/yii2-cms",
+    "description": "CMS is Yii2 based free open-source control panel. The best choice for a quick start of creating your website. ",
+    "type": "library",
+    "keywords": ["yii2","extension","cms"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Vishal Bareja",
+            "email": "vb2vish@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii2_cms\\": ""
+        }
+    }
+}
